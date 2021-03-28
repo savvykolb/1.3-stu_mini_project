@@ -36,7 +36,6 @@ a:link {
     float: right;
     display: block;
     padding: 0px 16px;
-    
 }
 
 a:visited {
@@ -55,24 +54,51 @@ h1
     color: #795548;
 } 
 
-/*section {
-    width: 600px;
-    height: 600px;
+h3 {
+    margin: auto;
     text-align: center;
-    border: 15px solid black;
+    width: 100px;
+    padding-top: 20px;
+    border: 3px solid #fbe193;
+    padding-bottom: 33px;
+    background-color: #795548;
+    color: #fbe193;
+    outline: 6px solid #795548;
+   }
+
+p {
+    font-size: 10px;
+    text-align:center;
+    margin-top: 20px
+}
+
+  .outerbox {
+    margin: 0;
+    text-align: center;
+    width: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 18px;
+    padding-right: 60px;
+    background-color: #795548;
+    border: 9px solid darkolivegreen;
+    outline: 6px solid #fbe193;
+    
   }
   
-  img {
-    width: 200px;
-    height: 200px;
-    background-color: lightblue;
-    border: 10px solid darkblue;
-    padding: 20px;
-    margin-top: 25px;
-    margin-right: 20px;
-  
+  .finalbox {
+    margin: auto;
+    text-align: center;
+    width: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 9px;
+    padding-right: 15px;
+    background-color: #795548;
+    border: 9px solid darkolivegreen;
+    outline: 6px solid #fbe193;
   }
-  */
+
 
 
 
