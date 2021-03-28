@@ -26,7 +26,8 @@ footer {
     line-height: 50px;
     color: whitesmoke;
     background-color: darkolivegreen;
-    text-align: right;
+    text-align: center;
+    margin-top: 30px;
 }
 
 a:link {
@@ -73,7 +74,7 @@ p {
 }
 
   .outerbox {
-    margin: 0;
+    margin: auto;
     text-align: center;
     width: 100px;
     padding-top: 15px;
@@ -83,7 +84,6 @@ p {
     background-color: #795548;
     border: 9px solid darkolivegreen;
     outline: 6px solid #fbe193;
-    
   }
   
   .finalbox {
@@ -99,6 +99,9 @@ p {
     outline: 6px solid #fbe193;
   }
 
-
+  section4 {
+    margin: auto;
+    text-align: center;
+}
 
 
